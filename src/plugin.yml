@@ -1,0 +1,13 @@
+main: net.vaniq.vaniqperms.Main
+name: VaniqPerms
+version: 1.0
+author: ItsRishon
+commands:
+  addrank:
+  deleterank:
+  ranks:
+  setprefix:
+  setrank:
+  settag:
+  setchat:
+  addperm:

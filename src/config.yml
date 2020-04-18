@@ -1,0 +1,19 @@
+#           // Vaniq-Permissions //          #
+
+
+# MySQL
+MySQL: false
+
+Address: MySQL-Address
+Database: MySQL-Database
+Username: MySQL-Username
+Password: MySQL-Password
+Port: 3306
+TableData: DATA
+TableRank: RANKS
+
+# Ranks
+Default-Rank: MEMBER
+
+
+NoPerm: '&cYou don''t have permissions.'
