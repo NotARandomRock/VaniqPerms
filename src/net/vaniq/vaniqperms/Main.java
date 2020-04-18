@@ -33,7 +33,7 @@ public class Main
     public static int port;
 
     public void onEnable() {
-        getLogger().info("Plugin Enabled | Plugin Developed by SELA ");
+        getLogger().info("Plugin Enabled | Plugin Developed by Rishon ");
 
         plugin = this;
 
@@ -113,5 +113,5 @@ public class Main
     public static void setConnection(Connection connection) { Main.connection = connection; }
 
 
-    public void onDisable() { getLogger().info("Plugin Disabled | Plugin Developed by SELA "); }
+    public void onDisable() { getLogger().info("Plugin Disabled | Plugin Developed by Rishon "); }
 }
